@@ -15,7 +15,7 @@
 #ifndef SFE_TSL2561_h
 #define SFE_TSL2561_h
 
-#include "Arduino.h"
+#include "application.h"
 
 class SFE_TSL2561
 {
